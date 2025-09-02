@@ -9,9 +9,9 @@ This repository contains the Nginx configuration files used for the Deptron proj
   Serves traffic for:
 
   - deptronrobotics.com
-  - <www.deptronrobotics.com>
+  - www.deptronrobotics.com
   - deptron.com.tr
-  - <www.deptron.com.tr>
+  - www.deptron.com.tr
 
 - **nginx.http-only.conf**  
   Minimal HTTP-only configuration used during the initial SSL certificate request.
